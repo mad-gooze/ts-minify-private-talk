@@ -1,5 +1,7 @@
 # Заметки к докладу "Минифицируем приватные поля в TypeScript"
 
+[Слайды](typescript-private-talk.pdf)
+
 - [Shaka Player](https://github.com/google/shaka-player)
 
 Closure Compiler:
