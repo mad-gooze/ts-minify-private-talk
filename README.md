@@ -21,6 +21,7 @@ Babel:
   - [AST Explorer](https://astexplorer.net/)
   - [Мои эксперименты с babel-плагином](https://github.com/mad-gooze/babel-typescript-mangle-private)
   
+  
 - [ts-transformer-minify-privates](https://github.com/timocov/ts-transformer-minify-privates)
 - [Writing TypeScript custom AST Transformer](https://levelup.gitconnected.com/writing-typescript-custom-ast-transformer-part-1-7585d6916819)
 - [ttypescript](https://github.com/cevek/ttypescript)
